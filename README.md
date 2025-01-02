@@ -79,6 +79,7 @@ If it's digital, **anything** is possible.
 [![Various AWS](https://img.shields.io/badge/-Various%20AWS-232F3E?logo=amazon%20aws&logoColor=white&style=for-the-badge)](#)
 [![BlitzBASIC](https://img.shields.io/badge/-BlitzBASIC-1B4D3E?style=for-the-badge)](#)
 [![DarkBASIC](https://img.shields.io/badge/-DarkBASIC-03254C?style=for-the-badge)](#)
+----------
 
-> *List of libraries and languages are likely not entirely conclusive. I have had the opportunity to work with a lot of different technologies.*
+*List of libraries and languages are likely not entirely inclusive. I have had the opportunity to work with a lot of different technologies.*
 
