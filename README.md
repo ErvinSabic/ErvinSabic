@@ -5,6 +5,8 @@ I'm a full stack web developer based out of Waterloo, Iowa. I build apps primari
 **Self contained + End-to-end = Reliable Systems.**  
 If it's digital, **anything** is possible.
 
+The majority of my work lives on a self-hosted Gitlab instance. 
+
 ---
 
 ### **Languages (Primarily)**
@@ -41,7 +43,7 @@ If it's digital, **anything** is possible.
 
 ### **🔭 I am currently working on:**
 - Logistics Enterprise Resource Planning (ERP) software  
-- Text Classification & Data Extraction with ML & OCR (Accelerated by nVidia CUDA & TensorRT)
+- Text Classification & Data Extraction with ML & OCR (Accelerated by NVIDIA CUDA & TensorRT)
 
 ---
 
